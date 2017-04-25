@@ -54,3 +54,16 @@ footer img{
 .medium-grey{
   color: #aaaaab;
 }
+
+address{
+  margin-top: 10px;
+}
+
+ul{
+  list-style-type: none;
+}
+
+.social-media{
+  margin-top: 10px;
+  padding: 0px;
+}
